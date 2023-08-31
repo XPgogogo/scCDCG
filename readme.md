@@ -28,7 +28,7 @@ The final output reports the clustering performance, here is an example on Maaya
 
 Final: ACC= 0.8264, NMI= 0.7766, ARI= 0.8060
 
-The raw data used in this paper can be found:
+The raw data used in this paper can be found:https://github.com/XPgogogo/scCDCG/tree/master/datasets
 
 # Contact
 Ping Xu:
