@@ -1,4 +1,4 @@
-## Run Example
+# Run Example
 ```shell
 python train_scCDCG.py --dataname 'neural_2100' --num_class 10 --epochs 200 --foldername 'logger_folder' --gpu 0
 ```
@@ -9,7 +9,7 @@ python train_scCDCG.py --dataname 'neural_2100' --num_class 10 --epochs 200 --fo
 scCDCG, a clustering model based on deep cut-informed graph for scRNA-seq data. See details in our paper: "singel-cell RNA-seq Clustering via Deep Cut-informed Graph" published in Briefings in Bioinformatics https://www.XXX.
 
 
-# requirements
+# Requirements
 We implement scCDCG in Python 3.7 based on PyTorch (version 1.12+cu113).
 
 Keras --- 2.4.3
