@@ -38,5 +38,10 @@ The raw data used in this paper can be found:https://github.com/XPgogogo/scCDCG/
 
 
 # Contact
-Ping Xu:
-xuping098@gmail.com; xuping@cnic.cn
+PhD. Ping XU
+Computer Network Information Center, Chinese Academy of Sciences
+University of Chinese Academy of Sciences
+No.2 Dongshen South St
+Beijing, P.R China, 100190
+Personal Email: xuping0098@gmail.com
+Official Email: xuping@cnic.cn
