@@ -6,7 +6,7 @@ python train_scCDCG.py --dataname 'Meuro_human_Pancreas_cell' --num_class 9 --ep
 
 
 # scCDCG
-scCDCG, a clustering model based on deep cut-informed graph for scRNA-seq data. See details in our paper: "scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding" published in DASFAA2024（CCF-B） https://www.XXX.
+scCDCG, a clustering model based on deep cut-informed graph for scRNA-seq data. See details in our paper: "scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding" published in DASFAA2024（CCF-B） https://www.XXX.(arXiv: https://arxiv.org/abs/2404.06167)
 
 
 # Overview
