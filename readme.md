@@ -51,7 +51,9 @@ Final: ACC= 0.9265, NMI= 0.8681, ARI= 0.9137
 
 The raw data used in this paper can be found:https://github.com/XPgogogo/scCDCG/tree/master/datasets
 
-![Uploading image.png…]()
+
+<img width="640" alt="image" src="https://github.com/XPgogogo/scCDCG/assets/89444373/8e5ad929-c452-4088-bd66-a195d1f1269e">
+
 
 
 # Please cite our paper if you use this code or or the dataset we provide in your own work:
