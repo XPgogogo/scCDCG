@@ -58,12 +58,14 @@ The raw data used in this paper can be found:https://github.com/XPgogogo/scCDCG/
 
 # Please cite our paper if you use this code or or the dataset we provide in your own work:
 
+```
 @article{xu2024sccdcg,
   title={scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding},
   author={Xu, Ping and Ning, Zhiyuan and Xiao, Meng and Feng, Guihai and Li, Xin and Zhou, Yuanchun and Wang, Pengfei},
   journal={arXiv preprint arXiv:2404.06167},
   year={2024}
 }
+```
 
 # Contact
 Ph.D student Ping XU
