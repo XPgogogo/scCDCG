@@ -1,5 +1,5 @@
 # scCDCG
-** scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding **
+**scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding **
 
 **scCDCG**, a clustering model based on deep cut-informed graph for scRNA-seq data. See details in our paper: "scCDCG: Efficient Deep Structural Clustering for single-cell RNA-seq via Deep Cut-informed Graph Embedding" published in **DASFAA 2024**（**CCF-B**）.
 （Accepted as a long paper for the research track at DASFAA 2024）
